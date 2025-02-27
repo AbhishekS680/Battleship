@@ -1,16 +1,3 @@
-""" Complete your "Project Details".  If there is an arrow to the right of the line number then click the arrow
-to expand the comment.
-********************************************************
-COMP 1005/1405 Section D - Assignment 3
-
-Project Details:
-    Name: Abhishek Sinha
-    Student #: 101338920
-    Date Created: November 3, 2024
-
-External Libraries Used (if appliable)
-********************************************************
-"""
 """ Pseudocode 
         Prompt user input for total rounds of the game
         Initialize the total game score
